@@ -21,3 +21,10 @@ I'm a detail-oriented Computer Engineering student with a strong foundation in s
 ### 💾 Systems & Environments
 
 [![Systems & Environments: windows,linux,apple,powershell](https://skillicons.dev/icons?i=windows,linux,apple,powershell)](#)
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://raw.githubusercontent.com/Alawnely/github-stats-transparent/output/generated/overview.svg" alt="Alawnely's GitHub Statistics" />
+  <img src="https://raw.githubusercontent.com/Alawnely/github-stats-transparent/output/generated/languages.svg" alt="Alawnely's Most Used Languages" />
+</p>
