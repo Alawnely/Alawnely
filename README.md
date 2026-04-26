@@ -25,6 +25,7 @@ I'm a detail-oriented Computer Engineering student with a strong foundation in s
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://raw.githubusercontent.com/Alawnely/github-stats-transparent/output/generated/overview.svg" alt="Alawnely's GitHub Statistics" />
-  <img src="https://raw.githubusercontent.com/Alawnely/github-stats-transparent/output/generated/languages.svg" alt="Alawnely's Most Used Languages" />
+
+[![](https://github.com/Alawnely/github-stats/blob/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
+[![](https://github.com/Alawnely/github-stats/blob/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
 </p>
